@@ -1,0 +1,6 @@
+﻿"timestamp","sql_name","canonical_sql","tibero_sql","oracle_sql","postgresql_sql","mysql_sql","validation_ok","validation_reasons","exec_ran","exec_success","exec_row_count","exec_error","tokens_in","tokens_out","cost_usd","status","error"
+"2025-12-29T11:36:43.927281","지난 7일 동안 주문 수를 날짜별로 집계해줘","","","","","","False","","False","False","","","0","0","0.0","running",""
+"2025-12-29T11:37:45.202052","지난 7일 동안 주문 수를 날짜별로 집계해줘","","","","","","False","","False","False","","","0","0","0.0","running",""
+"2025-12-29T11:37:57.832230","지난 7일 동안 주문 수를 날짜별로 집계해줘","","","","","","False","","False","False","","","0","0","0.0","running",""
+"2025-12-29T11:38:08.306640","지난 7일 동안 주문 수를 날짜별로 집계해줘","","","","","","False","","False","False","","","0","0","0.0","running",""
+"2025-12-29T11:38:18.867513","지난 7일 동안 주문 수를 날짜별로 집계해줘","","","","","","False","","False","False","","","0","0","0.0","running",""
