@@ -1,4 +1,6 @@
 # SQL Dialect Transformation + Safety Validator (HCX)
+![Image](https://github.com/user-attachments/assets/92fcaa10-bee2-4583-acb6-884082788ab1)
+
 
 자연어 또는 표준 SQL을 입력하면
 
