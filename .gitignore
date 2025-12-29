@@ -41,3 +41,5 @@ dev2/sbiz_headline_1011/data_output/
 site-packages/
 dist/
 build/
+
+/home/dlgkd/dev2/NL2SQL/nl2sql.db
